@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marioathan99
-- 👀 I’m interested in data analytics, software engineering and game development 
+- 👀 I’m interested in data science and software engineering
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON
 - 📫 How to reach me? though my linkedin: https://www.linkedin.com/in/mario-athanasiou/ 
 
