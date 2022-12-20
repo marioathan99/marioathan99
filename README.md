@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marioathan99
 - 👀 I’m interested in data science and software engineering
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, JAVA
 - 📫 How to reach me? though my linkedin: https://www.linkedin.com/in/mario-athanasiou/ 
 
 <!---
