@@ -2,7 +2,7 @@
 
 - 🎮 I’m passionate about creative technology; especially **game development**, **health & neuroscience projects**, and **science communication**  
 - 🧠 Currently exploring **neuroscience and digital health**, aiming to bridge technology, creativity, and impactful storytelling  
-- 🌱 Learning & building with **C++**, **Unity (C#)** (some SQL and Python on the side), and experimenting with **interactive educational content**  
+- 🌱 Learning & building with **C++**, **Unity (C#)** (some SQL and Python on the side for data engineering), and experimenting with **interactive educational content**  
 - ✍️ I love turning complex ideas into accessible science content, articles, and infographics  
 - 🚀 Open to **remoteopportunities** in game dev, health tech, edtech, content creation, and science communication  
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mario-athanasiou/)  
