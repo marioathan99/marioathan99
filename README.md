@@ -8,7 +8,7 @@
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mario-athanasiou/)  
 
 ---  
-**⚡️ Always learning, always building—let’s create something meaningful!**  
+**⚡️ Always learning, always building; let’s create something meaningful!**  
 
 <!---
 marioathan99/marioathan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
